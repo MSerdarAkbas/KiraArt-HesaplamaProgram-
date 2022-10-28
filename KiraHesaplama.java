@@ -10,7 +10,7 @@ public class KiraHesaplama {
 
     System.out.println("Kira tutarını giriniz=? ");
     int kira = konsolVeri.nextInt();
-    System.out.println("İlk Kira artışı olacak yılı giriniz=? (2016-2022) ");
+    System.out.println("İlk Kira artışı olacak yılı giriniz=? (2006-2022) ");
     int yil = konsolVeri.nextInt();
     sonKira(yil,kira);
  
